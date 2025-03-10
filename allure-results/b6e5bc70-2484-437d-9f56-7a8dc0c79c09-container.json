@@ -1,0 +1,1 @@
+{"uuid":"b6e5bc70-2484-437d-9f56-7a8dc0c79c09","name":"test.day3.beforeevery","children":["17d34d39-bb68-4c9d-8568-0e8997cdaeb9"],"description":"","befores":[{"name":"beforeevery","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1741609258537,"stop":1741609258537}],"afters":[],"start":1741609258537,"stop":1741609258537}

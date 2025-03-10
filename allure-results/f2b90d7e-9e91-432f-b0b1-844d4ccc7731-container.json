@@ -1,0 +1,1 @@
+{"uuid":"f2b90d7e-9e91-432f-b0b1-844d4ccc7731","name":"test.day3.afterevery","children":["697b9fc9-85f3-454a-baaa-da1682b3dc7d"],"description":"","befores":[],"afters":[{"name":"afterevery","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1741609258502,"stop":1741609258503}],"start":1741609258502,"stop":1741609258503}
